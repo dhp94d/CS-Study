@@ -1,5 +1,5 @@
 # 목차
-[1. 인터넷](#1.-인터넷) </br>
+[1. 인터넷](#1.인터넷) </br>
 [2. HTML](#2.-html)</br>
 [3. CSS](#3.-css)</br>
 [4. JavaScript](#4.-javascript)</br>
