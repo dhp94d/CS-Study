@@ -22,7 +22,11 @@
 
 
 ## 인터넷
-- 인터넷은 어떻게 작동이 될까요?
+- [DNS와 작동 원리](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/DNS%EC%99%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
+- [HTTP란](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/HTTP%EB%9E%80.md)
+- [인터넷은 어떻게 작동이 될까](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/DNS%EC%99%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
+- [도메인 네임이란](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%84%A4%EC%9E%84%EC%9D%B4%EB%9E%80.md)
+- [호스팅 이란](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80.md)
 ## HTML
 
 ## CSS
