@@ -2,7 +2,7 @@
 [1. 인터넷](#1.인터넷) </br>
 [2. HTML](#2.-html)</br>
 [3. CSS](#3.-css)</br>
-[4. JavaScript](#4.-javascript)</br>
+[4. JavaScript](#4.javascript)</br>
 [5. 버전관리](#5.-버전관리)</br>
 [6. 저장소 호스팅 서비스](#6.-저장소-호스팅-서비스)</br>
 [7. 웹 보안 지식](#7.-웹-보안-지식)</br>
@@ -36,7 +36,7 @@
 ### 현대의 css
 ### css 프레임워크
 
-## 4. JavaScript
+## 4.JavaScript
 
 ## 5. 버전관리
 
