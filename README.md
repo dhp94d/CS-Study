@@ -1,4 +1,5 @@
 # 목차
+[0. CS](#0-CS) </br>
 [1. 인터넷](#1-인터넷) </br>
 [2. HTML](#2-html)</br>
 [3. CSS](#3-css)</br>
@@ -20,7 +21,7 @@
 [19. 데스크탑 어플리케이션](#19-데스크탑-어플리케이션)</br>
 
 
-
+## 0. CS
 ## 1. 인터넷
 - [DNS와 작동 원리](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/DNS%EC%99%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
 - [HTTP란](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/HTTP%EB%9E%80.md)
