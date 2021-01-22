@@ -34,7 +34,7 @@ Domain Name System의 약자
 3. 컴퓨터가 IP주소를 인식하고 있지 않다면(로컬 DNS캐시에 ip주소가 없음) DNS서버를 요청 합니다. 그 역할은 정확히 어떤 IP주소가 등록 된 각 도메인 이름과 일치하는지 컴퓨터에 알려줌
 4. 이제 컴퓨터가 요청된 IP주소를 알고 있으므로 브라우저는 웹 서버와 콘텐츠를 협상할 수 있음
 
-![image-20210122182617275](C:\Users\dw115\AppData\Roaming\Typora\typora-user-images\image-20210122182617275.png) 
+![image](https://user-images.githubusercontent.com/68668924/105484596-ec380c00-5cee-11eb-9595-50beda377fd1.png)
 
 
 
@@ -44,9 +44,7 @@ Domain Name System의 약자
 
 도메인 이름은 점으로 구분되고 오른쪽에서 왼쪽으로 읽는 여러부분으로 구서된 간단한 구조를 가지고 있습니다.
 
-![image-20210122175952635](C:\Users\dw115\AppData\Roaming\Typora\typora-user-images\image-20210122175952635.png)
-
-![image-20210122180818360](C:\Users\dw115\AppData\Roaming\Typora\typora-user-images\image-20210122180818360.png) 
+![image](https://user-images.githubusercontent.com/68668924/105484615-f0fcc000-5cee-11eb-80c8-1ded4935f175.png)
 
 **TLD(Top level domain) **
 
@@ -96,7 +94,7 @@ FQDN 방식으로 표기된 도메인 이름은 인터넷 상에서 유일한 �
 
    - DNS는 두 가지를 하나로 모아 목적지로 안내합니다
 
-     ![image-20210122183025229](C:\Users\dw115\AppData\Roaming\Typora\typora-user-images\image-20210122183025229.png)  -> 216.58.210.142
+     ![image](https://user-images.githubusercontent.com/68668924/105484628-f528dd80-5cee-11eb-86f7-e505da398bd9.png)  -> 216.58.210.142
 
    - 브라우저와 OS는 모두 캐시를 먼저 검색하여 해당 주소의 IP를 알고 있는지 확인합니다. 해당 주소가 없다면 resolver를 호출함
 
