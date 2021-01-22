@@ -133,7 +133,7 @@ myfit.xyz/male/upper?test=false와 같이 주소 뒤에 ?를 붙인 후 키=값&
 
 
 
-## HTTP 상태 코드
+## 3. HTTP 상태 코드
 
 
 
