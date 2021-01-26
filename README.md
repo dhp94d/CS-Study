@@ -38,10 +38,6 @@
 ## 3. CSS
 - [CSS 정리 및 레이아웃](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/CSS%20%EC%A0%95%EB%A6%AC%20%EB%B0%8F%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.md)
 - [반응형 디자인과 미디어 쿼리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC.md)
-### css 구조
-### css 전처리기
-### 현대의 css
-### css 프레임워크
 
 ## 4.JavaScript
 
