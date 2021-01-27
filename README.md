@@ -1,4 +1,7 @@
 # 목차
+>[로드맵](프론트엔드2020-로드맵) </br>
+>[학습해야할 지식](학습해야할-지식) </br> 
+
 [0. CS](#0-CS) </br>
 [1. 인터넷](#1-인터넷) </br>
 [2. HTML](#2-html)</br>
@@ -40,13 +43,24 @@
 - [반응형 디자인과 미디어 쿼리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC.md)
 
 ## 4.JavaScript
-
+- [DOM]
+- [Fetch API / Ajax (XHR)]
+- [JS 모듈과 es6+]
+- [호이스팅]
+- [이벤트 버블링]
+- [스코프]
+- [프로토타입]
+- [strict]
 ## 5. 버전관리
-
+- [버전관리란]
+- [Git 기본 사용법]
 ## 6. 저장소 호스팅 서비스
-
+- [깃허브 사용법]
 ## 7. 웹 보안 지식
-
+- [HTTPS]
+- [컨텐츠 보안 정책]
+- [CORS]
+- [OWASP 보안 취약점]
 ## 8. 패키지 매니저
 
 ## 9. 빌드 도구
@@ -71,6 +85,7 @@
 
 ## 19. 데스크탑 어플리케이션
 
+## 학습해야할 지식 
 
 # 프론트엔드2020 로드맵
 ![image](https://user-images.githubusercontent.com/68668924/105307734-e4e60500-5bff-11eb-90f7-27af3c66bfe7.png)
