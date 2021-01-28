@@ -51,6 +51,7 @@
 - [스코프]
 - [프로토타입]
 - [strict]
+- [비교연산자 ==와 ===](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%20%3D%3D%20%EC%99%80%20%3D%3D%3D.md)
 ## 5. 버전관리
 - [버전관리란]
 - [Git 기본 사용법]
