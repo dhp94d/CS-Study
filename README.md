@@ -49,11 +49,12 @@
 - [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
 - [이벤트 버블링]
 - [스코프](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.md)
-- [프로토타입]
-- [strict]
+- [프로토타입](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+- [strict](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/strict%20mode.md)
 - [비교연산자 ==와 ===](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%20%3D%3D%20%EC%99%80%20%3D%3D%3D.md)
 - [옵셔널 체이닝 연산자와 null 병합 연산자](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%98%B5%EC%85%94%EB%84%90%20%EC%B2%B4%EC%9D%B4%EB%8B%9D%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20null%20%EB%B3%91%ED%95%A9%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [변수](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B3%80%EC%88%98.md)
+- [this와 bind](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/bind%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%83%81%ED%99%A9.md)
 ## 5. 버전관리
 - [버전관리란]
 - [Git 기본 사용법]
@@ -150,7 +151,6 @@
 11. arrow 함수의 this가 결정되는 방식을 설명해보세요.
 12. 비동기의 장점을 설명해보세요.
 13. 본인이 즐겨하는 디버깅 방법을 설명해보세요.
-14. bind 가 필요한 상황을 간단한 코드로 보여주세요.
 15. CommonJS 스펙에 대해 설명해보세요.
 16. node의 middleware의 동작방식을 설명해보세요.
 17. 본인이 생각하는 좋은 객체지향프로그래밍에 대해서 설명해보세요.
