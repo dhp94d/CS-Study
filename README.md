@@ -46,13 +46,14 @@
 - [DOM]
 - [Fetch API / Ajax (XHR)]
 - [JS 모듈과 es6+]
-- [호이스팅]
+- [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
 - [이벤트 버블링]
-- [스코프]
+- [스코프](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [프로토타입]
 - [strict]
 - [비교연산자 ==와 ===](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%20%3D%3D%20%EC%99%80%20%3D%3D%3D.md)
 - [옵셔널 체이닝 연산자와 null 병합 연산자](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%98%B5%EC%85%94%EB%84%90%20%EC%B2%B4%EC%9D%B4%EB%8B%9D%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20null%20%EB%B3%91%ED%95%A9%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [변수](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B3%80%EC%88%98.md)
 ## 5. 버전관리
 - [버전관리란]
 - [Git 기본 사용법]
