@@ -52,6 +52,7 @@
 - [프로토타입]
 - [strict]
 - [비교연산자 ==와 ===](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%20%3D%3D%20%EC%99%80%20%3D%3D%3D.md)
+- [옵셔널 체이닝 연산자와 null 병합 연산자](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%98%B5%EC%85%94%EB%84%90%20%EC%B2%B4%EC%9D%B4%EB%8B%9D%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20null%20%EB%B3%91%ED%95%A9%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 ## 5. 버전관리
 - [버전관리란]
 - [Git 기본 사용법]
