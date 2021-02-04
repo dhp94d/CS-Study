@@ -56,7 +56,8 @@
 - [변수](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B3%80%EC%88%98.md)
 - [this와 bind](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/bind%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%83%81%ED%99%A9.md)
 - [실행 컨텍스트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
-- [프로퍼티 어트리뷰트]
+- [프로퍼티 어트리뷰트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
+ -[클로저](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 ## 5. 버전관리
 - [버전관리란]
 - [Git 기본 사용법]
