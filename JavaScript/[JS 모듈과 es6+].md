@@ -124,22 +124,42 @@ es6에서는 rest파라미터를 사용하여 가변 인자 함수의 인수 목
 
 모듈은 항상 엄격모드로 실행됨. 선언되지 않은 변수에 값을 할당하는 등의 코드는 에러를 발생시킴
 
+모듈이란 여러 기능들에 관한 코드가 모여있는 하나의 파일로 다음과 같은 것들을 위해 사용한다.
 
-
-## JS 모듈이란 무엇인가?
-
-- JS 모듈(또는 ES Module, ECMAScript 모듈이라고 일컫는)은 자바스크립트의 중요한 새 기능, 또는 새 기능들의 통칭입니다. 이미 과거에 유저단계에서 구현된 많은 JS 모듈 시스템이 있었습니다, 예를들어 node js의 [CommonJS](https://nodejs.org/docs/latest-v10.x/api/modules.html), [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md), 그 외에 다른 걸 사용했을 지도 모릅니다. 어쨌든 모든 유저단계에서 구현된 모듈 시스템은 "코드뭉치를 import하고 export한다"는 공통점을 가지고 있습니다.
-- Javascript는 이제 모듈시스템을 표준화합니다. 자바스크립트 모듈은 단지 export예약어를 앞에 prefix로 붙여주는 것 만으로 const, function, 또는 다른 정의나 변수들을 export할 수 있습니다.
-- import 예약어를 사용하면 export예약어를 사용해 내보낸 것을 사용할 수 있습니다.
-- default 예약어를 사용하면 export한 변수/상수/함수 등을 import하는 곳에서 어떠한 이름으로든 사용할 수 있게 해줍니다.
-- 모듈은 클래식 스크립트(모듈이 아닌 스크립트)비교해 다음과 같은 차이점을 갖고 있습니다.
-  - 모듈은 strict mode를 default로 사용합니다.
-  - HTML style comment는 더 이상 사용할 수 없습니다.
-    - `<!--` 로 둘러싸인 주석을 의미합니다.
-  - 모듈은 이제 lexical한 top level scope를 가집니다. 더이상 모듈 내에서 전역변수를 `var foo=42;` 와 같이 선언하더라도, `window.foo`로 접근할 수 없습니다.
-  - import, export syntax는 오직 모듈 내에서만 사용 가능하고 클래식 스크립트 내에서는 사용할 수 없습니다.
-- 이러한 차이점 때문에, 같은 자바스크립트 코드더라도 module인지 클래식 스크립트인지에 따라 다르게 다뤄져야합니다. 이처럼 자바스크립트 런타임에는 어떤 스크립트가 모듈인지 알고 있어야합니다.
+- 유지보수성 : 기능들이 모듈화가 잘 되어있다면, 의존성을 그만큼 줄일 수 있기 때문에 어떤 기능을 개선하거나 수정할 때 훨씬 편하게 할 수 있다.
+- 네임스페이스화: 자바스크립트에서 전역변수는 전역공간을 가지기 때문에 코드의 양이 많아질수록 겹치는 네임스페이스가 많아질 수 있다. 그러나 모듈로 분리하면 모듈만의 네임스페이스를 갖기 때문에 그 문제가 해결된다.
+- 재사용성: 똑같은 코드를 반복하지 않고 모듈로 분리시켜 필요할때마다 사용할 수 있다.
 
 
 
-참조 : https://velog.io/@widian/%EC%9B%B9%EC%97%90%EC%84%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+### CommonJS
+
+자바스크립트의 공식 스펙이 브라우저만 지원했기 때문에 이를 서버사이드 및 데스크탑 어플리케이션에서 지원하기 위한 노력이 있었다. 그걸 위해 만든 그룹이 CommonJS이며 여기선 자바스크립트가 범용적인 언어로 쓰이기 위한 스펙을 정의하고 있다. 그룹을 만들었을 때, 범용적인 언어로 만들기 위해서는 모듈화의 개념이 필요했고 이 그룹만의 모듈 방식을 정의하게 되었는데 그것이 바로 CommonJS 방식의 모듈화다.
+
+다른 모듈을 사용할 때는 **require** 를, 모듈을 해당 스코프 밖으로 보낼 때에는 **module.exports** 를 사용하는 방식으로, Node.js에선 현재 이 방식을 사용하고 있다
+
+여기서 `module.exports` 의 `module` 은 현재 모듈에 대한 정보를 갖고 있는 객체이다. 이는 예약어이며 그 안에 `id` , `path` , `parent` 등의 속성이 있고 `exports` 객체를 가지고 있다.
+
+
+
+### exports vs module.exports
+
+`module.exports` 외에도 `exports` 를 사용하기도 하는데 이 관계에 대해서 명확히 이해하고 있어야 한다. 정리하자면 아래와 같다.
+
+- `module.exports` 는 빈 객체를 참조한다.
+- `exports` 는 `module.exports` 를 참조한다.
+- `require` 는 항상 `module.exports` 를 리턴받는다.
+
+그렇다면 왜 2가지를 설정해놓았을까? 그 이유는 `exports` 는 항상 `module.exports` 를 참조하기 때문에 `exports` 를 사용하면 직접 `module.exports` 를 수정하지 않고 객체의 멤버를 만들거나 수정하는 방식으로 사용한다. 따라서, `exports` 에 어떤 값을 할당하거나 새로운 객체를 할당했다고 하더라도 결국 `require` 는 `module.exports` 를 리턴받기 때문에 잠재적인 버그를 피할 수가 있다.
+
+
+
+## ES6(ES2015) 방식
+
+`import` 와 `export` 구문을 사용하는 방식으로 나에게는 이 방식이 가장 익숙하다. 하지만 모든 브라우저가 지원하는 것이 아니기 때문에 Babel의 `@babel/plugin-transform-modules-commonjs` 를 통해 변환시켜서 사용한다. 모듈 A,B가 있고 각각을 `export` 로 내보내는 방식과 그에 따라 어떻게 `import` 로 불러오는지 살펴보자.
+
+여기서 눈여겨봐야될 것은 `default` 의 유무인데 `export` 를 사용할 때는 **named export** 와 **default export** 를 사용할 수 있다. 단, default export는 모듈 내에서 한번만 사용할 수 있고 named export는 여러번 사용할 수 있다는 것이다. 그렇게 default export로 내보내면 `import` 에선 내보낸 이름 그대로 바로 사용할 수 있지만, named export로 내보내면 `{}` 로 묶어서 불러와야 한다. 이것이 기본적인 사용법이고 별칭(alias)을 `as` 로 주어서 다른 이름으로 사용할 수도 있고 `*` 와일드카드를 사용하여 한번에 불러오거나 내보낼 수도 있다. 이런 여러가지 변형기법의 사용은 [여기](https://velog.io/@doondoony/JavaScript-Module-System#-es6-modulesesm) 를 참고하자.
+
+
+
+참조: https://baeharam.netlify.app/posts/javascript/module
