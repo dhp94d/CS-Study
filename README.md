@@ -45,7 +45,7 @@
 ## 4.JavaScript
 - [DOM]
 - [Fetch API / Ajax (XHR)]
-- [JS 모듈과 es6+]
+- [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
 - [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
 - [이벤트 버블링]
 - [스코프](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.md)
