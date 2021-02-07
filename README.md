@@ -48,7 +48,7 @@
 - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
 - [실행 컨텍스트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
-- [이벤트 버블링]
+- [이벤트]
 - [스코프](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [프로토타입](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - [strict](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/strict%20mode.md)
@@ -59,6 +59,13 @@
 - [프로퍼티 어트리뷰트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
 - [클로저](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - [이터러블](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94.md)
+- [비동기]
+- [REST API]
+- [프로미스]
+- [제네레이터와 async/await]
+- [에러처리]
+- [바벨]
+- [웹팩]
 
 ## 5. 버전관리
 - [버전관리란]
