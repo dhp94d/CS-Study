@@ -43,12 +43,10 @@
 - [반응형 디자인과 미디어 쿼리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC.md)
 
 ## 4.JavaScript
-- [DOM]
 - [Fetch API / Ajax (XHR)]
 - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
 - [실행 컨텍스트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
-- [이벤트]
 - [스코프](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [프로토타입](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - [strict](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/strict%20mode.md)
