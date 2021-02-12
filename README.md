@@ -43,7 +43,7 @@
 - [반응형 디자인과 미디어 쿼리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC.md)
 
 ## 4.JavaScript
-- [Fetch API / Ajax (XHR)]
+- [Fetch API / Ajax (XHR)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/Ajax.md)
 - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
 - [실행 컨텍스트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [호이스팅](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
@@ -57,13 +57,11 @@
 - [프로퍼티 어트리뷰트](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
 - [클로저](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - [이터러블](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94.md)
-- [비동기]
-- [REST API]
-- [프로미스]
+- [비동기](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [REST API](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/REST%20API.md)
+- [프로미스](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
 - [제네레이터와 async/await]
 - [에러처리]
-- [바벨]
-- [웹팩]
 
 ## 5. 버전관리
 - [버전관리란]
