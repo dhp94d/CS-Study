@@ -60,8 +60,7 @@
 - [비동기](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [REST API](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/REST%20API.md)
 - [프로미스](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
-- [제네레이터와 async/await]
-- [에러처리]
+- [제네레이터와 async/await](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20async%20await.md)
 
 ## 5. 버전관리
 - [버전관리란]
