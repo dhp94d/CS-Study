@@ -63,8 +63,8 @@
 - [제네레이터와 async/await](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20async%20await.md)
 
 ## 5. 버전관리
-- [버전관리란]
-- [Git 기본 사용법]
+- [버전관리란](https://github.com/dhp94d/frontend-Roadmap/blob/main/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EB%9E%80.md)
+- [Git 기본 사용법](https://github.com/dhp94d/frontend-Roadmap/blob/main/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC/git.md)
 
 ## 6. 저장소 호스팅 서비스
 - [깃허브 사용법]
