@@ -41,7 +41,18 @@
 ## 3. CSS
 - [CSS 정리 및 레이아웃](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/CSS%20%EC%A0%95%EB%A6%AC%20%EB%B0%8F%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.md)
 - [반응형 디자인과 미디어 쿼리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC.md)
-
+- CSS 구조
+```최신 프레임워크와 CSS-in-JS를 사용한다면 걱정할 필요가 없지만 그럼에도 불구하고 BEM방법론에 익숙해지는 것은 좋은 생각]```
+  - [BEM]
+- 현대의 CSS
+  - [Styled Components]
+  - [Css Modules]
+  - [Emotion]
+  - [Styled JSX]
+- CSS 프레임워크
+  - [ReactStrap]
+  - [Material UI]
+  - [Bootstrap]
 ## 4.JavaScript
 - [Fetch API / Ajax (XHR)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/Ajax.md)
 - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
@@ -71,29 +82,55 @@
 - [CORS]
 - [OWASP 보안 취약점]
 ## 8. 패키지 매니저
-
+- [npm]
 ## 9. 빌드 도구
-
+- 태스트 러너
+  - [npm script]
+- Linters 및 Formatters
+  - [Prettier]
+  - [ESLint]
+- 모듈 번들러
+  - [Webpack]
+  - [Webpack, Rollup, Parcel]
 ## 10. 프레임 워크
-
+- [React.js, Angular, Vue.js]
+- [React]
+- [Redux, MobX]
 ## 11. 웹 컴포넌트
-
+- [HTML Templates]
+- [Custome Elemtents]
+- [Shadow DOM]
 ## 12. 테스팅
-
+```단위, 통합, 기능 테스트의 차이점을 학습하고 테스트 작성방법 배우기```
+- [Jest]
+- [react-testing-library]
+- [Cypress]
+- [Enzyme]
 ## 13. 타입검사
-
+- TypeScript
 ## 14. Progressive Web Apps
-
+- PWA에서 사용되는 다양한 웹 API 배우기
+  - Storage
+  - Web Sockets
+  - Service Workers
+- 계산, 측정 성능 향상
+  - PRPL Pattern
+  - RAIL Model
+  - 성능 분석
+  - Using Lighthouse
+  - Using DevTools
 ## 15. SSR
-
+- Next.js(React.js)
 ## 16. GraphQL
-
+- Apollo
+- Relay Modern
 ## 17. 정적 사이트 생성기
-
+- Next.js
+- GatsbyJS
 ## 18. 모바일 어플리케이션
-
+- React Native
 ## 19. 데스크탑 어플리케이션
-
+- Electron
 ## 학습해야할 지식 
 - test code를 작성하면서 개발하는 방식의 장점과 단점에 대해 설명해주세요.
 - test code를 테스트하는 툴을 사용해보신 경험이 있나요?
