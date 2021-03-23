@@ -25,6 +25,15 @@
 
 
 ## 0. CS
+
+- ### 운영체제
+  - **운영체제와 정보 기술의 원리 (반효경 지음)**
+    - 1장 컴퓨터 및 정보 기술의 역사
+    - 2장 운영체제 개요
+
+- ### 네트워크
+  - **TCP/IP교과서 (조 캐서드 지음/정욕석 옮김)**
+    - 1부 TCP/IP 기초
 ## 1. 인터넷
 - [인터넷은 어떻게 작동이 될까](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%9E%91%EB%8F%99%EC%9D%B4%20%EB%90%A0%EA%B9%8C%EC%9A%94.md)
 - [도메인 네임이란 & DNS와 작동 원리](https://github.com/dhp94d/frontend-Roadmap/blob/main/Internet/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%84%A4%EC%9E%84%EC%9D%B4%EB%9E%80%20%26%20DNS%EC%99%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
