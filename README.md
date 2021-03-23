@@ -65,10 +65,10 @@
 ## 4.JavaScript
 - ### [PoiemaWweb 스터디(모던 자바스크립트 Deep Dive 리버덕 스터디)](https://github.com/dhp94d/frontend-Roadmap/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%8A%A4%ED%84%B0%EB%94%94)
   - [1회차 (프로그래밍
-자바스크립트란?
-자바스크립트 개발 환경과 실행 방법
-변수 ★
-표현식과 문 ★)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%8A%A4%ED%84%B0%EB%94%94/1%ED%9A%8C%EC%B0%A8%20%20(1~5).md)
+자바스크립트란?,
+자바스크립트 개발 환경과 실행 방법,
+변수,
+표현식과 문)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%8A%A4%ED%84%B0%EB%94%94/1%ED%9A%8C%EC%B0%A8%20%20(1~5).md)
 - ### 개인정리
   - [Fetch API / Ajax (XHR)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/Ajax.md)
   - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
