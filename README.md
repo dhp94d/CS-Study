@@ -28,7 +28,7 @@
 
 - ### 운영체제
   - **운영체제와 정보 기술의 원리 (반효경 지음)**
-    - 2장 운영체제 개요
+    - [2장 운영체제 개요](https://github.com/dhp94d/frontend-Roadmap/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC%20(%EB%B0%98%ED%9A%A8%EA%B2%BD%20%EC%A7%80%EC%9D%8C)/2.%20%EC%9A%B4%EC%98%81%20%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EC%9A%94.md)
 
 - ### 네트워크
   - **TCP/IP교과서 (조 캐서드 지음/정욕석 옮김)**
