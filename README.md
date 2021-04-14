@@ -29,7 +29,7 @@
 - ### 운영체제
   - **운영체제와 정보 기술의 원리 (반효경 지음)**
     - [2장 운영체제 개요](https://github.com/dhp94d/frontend-Roadmap/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC%20(%EB%B0%98%ED%9A%A8%EA%B2%BD%20%EC%A7%80%EC%9D%8C)/2.%20%EC%9A%B4%EC%98%81%20%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EC%9A%94.md)
-
+    - [3장 컴퓨터 시스템의 동작 원리](https://github.com/dhp94d/frontend-Roadmap/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC%20(%EB%B0%98%ED%9A%A8%EA%B2%BD%20%EC%A7%80%EC%9D%8C)/3.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 - ### 네트워크
   - **TCP/IP교과서 (조 캐서드 지음/정욕석 옮김)**
     - 1부 TCP/IP 기초
@@ -68,6 +68,7 @@
 자바스크립트 개발 환경과 실행 방법,
 변수,
 표현식과 문)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%8A%A4%ED%84%B0%EB%94%94/1%ED%9A%8C%EC%B0%A8%20%20(1~5).md)
+  - [2회차 (데이터 타입, 연산자, 타입 변환과 단축 )](https://github.com/dhp94d/frontend-Roadmap/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%8A%A4%ED%84%B0%EB%94%94/2%ED%9A%8C%EC%B0%A8)
 - ### 개인정리
   - [Fetch API / Ajax (XHR)](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/Ajax.md)
   - [JS 모듈과 es6+](https://github.com/dhp94d/frontend-Roadmap/blob/main/JavaScript/%5BJS%20%EB%AA%A8%EB%93%88%EA%B3%BC%20es6%2B%5D.md)
